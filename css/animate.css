@@ -1,4 +1,5 @@
-@charset "UTF-8";
+
+    transform: translateY(-20px);@charset "UTF-8";
 
 
 /*!
@@ -1490,7 +1491,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     opacity: 0;
     -webkit-transform: translateY(-20px);
     -ms-transform: translateY(-20px);
-    transform: translateY(-20px);
   }
 }
 
